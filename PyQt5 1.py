@@ -44,7 +44,7 @@ window.setLayout(line)
 
 # a function that creates and displays the second phrase
 def click():
-    func_text = QLabel("pls don't")
+    func_text = QLabel("pls hjyyyy")
     line.addWidget(func_text, alignment=Qt.AlignCenter)
     window.setLayout(line)
     font2 = QFont('Ariel', 20)
